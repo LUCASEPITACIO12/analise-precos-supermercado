@@ -1,0 +1,8 @@
+Categoria,n,media,mediana,desvio,cv_%,media_vs_mediana,razao_media_mediana
+lacteos,363,3046.72,1759.0,4222.27,138.58,acima,1.73
+belleza-y-cuidado-personal,189,2983.16,2690.0,1934.18,64.84,acima,1.11
+congelados,224,3190.21,3029.0,1810.67,56.76,acima,1.05
+frutas,19,1724.47,1195.0,1639.15,95.05,acima,1.44
+instantaneos-y-sopas,37,1179.27,689.0,1276.22,108.22,acima,1.71
+comidas-preparadas,40,3948.3,3890.0,1252.84,31.73,acima,1.01
+verduras,59,1457.14,1250.0,972.23,66.72,acima,1.17
